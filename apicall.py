@@ -6,6 +6,21 @@ from twelvelabs import TwelveLabs
 
 from metadata.trail_metadata import TrailMetadata
 
+def download_image(url, filename):
+    url = re.sub(r"&t.*", "", url)
+    response = requests.get(url)
+    file = open(filename, "wb")
+    file.write(response.content)
+    file.close()
+
+
+def get_local_thumbnail(thumbnail_url):
+    local_filename = "thumbnail.jpg"
+    download_image(thumbnail_url, local_filename)
+    abs_path = os.path.abspath(local_filename)
+
+    return abs_path
+
 class SearchResult:
     def __init__(self, item, youtube_link):
         self.thumbnail_url = item.thumbnail_url
