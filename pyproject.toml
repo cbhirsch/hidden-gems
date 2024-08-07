@@ -7,6 +7,14 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.11"
+twelvelabs = "^0.2.6"
+streamlit = "^1.37.0"
+openai = "^1.38.0"
+groq = "^0.9.0"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.3.2"
+ipykernel = "^6.29.5"
 
 
 [build-system]

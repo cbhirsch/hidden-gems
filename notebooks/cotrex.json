@@ -1,0 +1,177 @@
+[
+{
+	"name": "Great Sand Dunes",
+	"segment-start": 0.55,
+	"segment-end": 1.45,
+	"map-link": "https://trails.colorado.gov/interpretive-trails/great-sand-dunes-5897",
+	"map-thumbnail": "tn-1.png"
+},
+{
+	"name": "The Crystal Mill",
+	"segment-start": 1.45,
+	"segment-end": 2.33,
+	"map-link": "https://trails.colorado.gov/places/na~2101913",
+	"map-thumbnail": "tn-2.png"
+},
+{
+	"name": "Ouray",
+	"segment-start": 2.33,
+	"segment-end": 3.19,
+	"map-link": "https://trails.colorado.gov/trails/ouray-perimeter-11438",
+	"map-thumbnail": "tn-3.png"
+},
+{
+	"name": "Quandary Peak",
+	"segment-start": 3.19,
+	"segment-end": 4.02,
+	"map-link": "https://trails.colorado.gov/places/na~1460212",
+	"map-thumbnail": "tn-4.png"
+},
+{
+	"name": "Rifle Falls",
+	"segment-start": 4.02,
+	"segment-end": 4.47,
+	"map-link": "https://trails.colorado.gov/places/na~1168377",
+	"map-thumbnail": "tn-5.png"
+},
+{
+	"name": "Saint Marys Glacier",
+	"segment-start": 4.47,
+	"segment-end": 5.32,
+	"map-link": "'https://trails.colorado.gov/places/na~1459496",
+	"map-thumbnail": "tn-6.png"
+},
+{
+	"name": "Conundrum Hot Springs",
+	"segment-start": 5.32,
+	"segment-end": 6.18,
+	"map-link": "https://trails.colorado.gov/routes/30",
+	"map-thumbnail": "tn-7.png"
+},
+{
+	"name": "Garden of the Gods",
+	"segment-start": 6.18,
+	"segment-end": 6.58,
+	"map-link": "https://trails.colorado.gov/routes/126",
+	"map-thumbnail": "tn-8.png"
+},
+{
+	"name": "Maroon Bells",
+	"segment-start": 6.58,
+	"segment-end": 7.45,
+	"map-link": "https://trails.colorado.gov/places/na~1450403",
+	"map-thumbnail": "tn-9.png"
+},
+{
+	"name": "Crested Butte",
+	"segment-start": 7.45,
+	"segment-end": 8.38,
+	"map-link": "https://trails.colorado.gov/trails/crested-butte-rec-path-21321",
+	"map-thumbnail": "tn-10.png"
+},
+{
+	"name": "Black Canyon of the Gunnison",
+	"segment-start": 8.38,
+	"segment-end": 9.21,
+	"map-link": "https://trails.colorado.gov/places/na~1457157",
+	"map-thumbnail": "tn-11.png"
+},
+{
+	"name": "Loveland Pass",
+	"segment-start": 9.21,
+	"segment-end": 10.06,
+	"map-link": "https://trails.colorado.gov/places/na~1459295",
+	"map-thumbnail": "tn-12.png"
+},
+{
+	"name": "The Springs Resort and Pagosa Springs",
+	"segment-start": 10.06,
+	"segment-end": 10.45,
+	"map-link": "https://trails.colorado.gov/places/na~1443085",
+	"map-thumbnail": "tn-13.png"
+},
+{
+	"name": "Royal Gorge Train",
+	"segment-start": 10.45,
+	"segment-end": 11.36,
+	"map-link": "https://trails.colorado.gov/places/na~1454111",
+	"map-thumbnail": "tn-14.png"
+},
+{
+	"name": "Sky Pond",
+	"segment-start": 11.36,
+	"segment-end": 12.25,
+	"map-link": "https://trails.colorado.gov/trails/sky-pond-6078",
+	"map-thumbnail": "tn-15.png"
+},
+{
+	"name": "Lake Haiyaha",
+	"segment-start": 12.25,
+	"segment-end": 13.05,
+	"map-link": "https://trails.colorado.gov/places/na~690006",
+	"map-thumbnail": "tn-16.png"
+},
+{
+	"name": "Chasm Lake and Chasm View",
+	"segment-start": 13.05,
+	"segment-end": 13.59,
+	"map-link": "https://trails.colorado.gov/places/na~690538",
+	"map-thumbnail": "tn-17.png"
+},
+{
+	"name": "Mount Evans and Mount Bierstadt",
+	"segment-start": 13.59,
+	"segment-end": 14.46,
+	"map-link": "https://trails.colorado.gov/places/na~1450399",
+	"map-thumbnail": "tn-18.png"
+},
+{
+	"name": "Paint Mines Interpretive Park",
+	"segment-start": 14.46,
+	"segment-end": 15.25,
+	"map-link": "https://trails.colorado.gov/routes/128",
+	"map-thumbnail": "tn-19.png"
+},
+{
+	"name": "Twin Lakes",
+	"segment-start": 15.25,
+	"segment-end": 16.04,
+	"map-link": "https://trails.colorado.gov/places/na~684303",
+	"map-thumbnail": "tn-20.png"
+},
+{
+	"name": "Island Lake and Ice Lake",
+	"segment-start": 16.04,
+	"segment-end": 16.44,
+	"map-link": "https://trails.colorado.gov/places/na~691047",
+	"map-thumbnail": "tn-21.png"
+},
+{
+	"name": "Dillon Ice Castles",
+	"segment-start": 16.44,
+	"segment-end": 17.27,
+	"map-link": "https://trails.colorado.gov/routes/86",
+	"map-thumbnail": "tn-22.png"
+},
+{
+	"name": "Glenwood Canyon and Hanging Lake",
+	"segment-start": 17.27,
+	"segment-end": 18.04,
+	"map-link": "https://trails.colorado.gov/places/na~691933",
+	"map-thumbnail": "tn-23.png"
+},
+{
+	"name": "Mount Sneffels",
+	"segment-start": 18.04,
+	"segment-end": 18.48,
+	"map-link": "https://trails.colorado.gov/places/na~1452032",
+	"map-thumbnail": "tn-24.png"
+},
+{
+	"name": "The DeCaLiBron",
+	"segment-start": 18.48,
+	"segment-end": 20.06,
+	"map-link": "https://trails.colorado.gov/places/na~1450404",
+	"map-thumbnail": "tn-25.png"
+}
+]
